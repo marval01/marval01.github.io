@@ -205,6 +205,7 @@ footer .container{
     #description .container{
         display: flex;
         justify-content: center;
+        padding: 100px 12px;
     }
     #description .text-description{
         width: 50%;
